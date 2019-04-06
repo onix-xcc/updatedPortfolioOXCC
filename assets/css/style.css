@@ -35,6 +35,9 @@ h1 {
     border-bottom: #535353 10px double;
 }
 
+p {
+    text-align: justify;
+}
 a {
     color: white;
     font-size: 20px;
