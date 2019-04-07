@@ -5,8 +5,8 @@ html {
 }
 
 body {
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    font-size: 18px;
+    font-family:'Philosopher', Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 20px;
     line-height: 34px;
     color: #bdbdbd;
     background: url("../images/prism.png")
@@ -35,9 +35,21 @@ h1 {
     border-bottom: #535353 10px double;
 }
 
+.navbar-brand {
+    font-family: 'Bangers', cursive;
+    font-size: 30px;
+}
+
+.nav-link {
+    font-size: 30px;
+    padding: 2px 0px 0px 0px;
+}
+
 p {
     text-align: justify;
+    text-indent: 30px;
 }
+
 a {
     color: white;
     font-size: 20px;
@@ -68,7 +80,7 @@ a:hover {
     position: absolute;
     bottom: 0px;
     width: 100%;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 30px;
     color: #ffffff;
     text-align: center;
@@ -91,10 +103,6 @@ footer {
     margin-right: 10px;
 }
 
-#linkedIn {
-    width: 25px;
-    height: auto;
-}
 
 /* Hamburger icon */
 .animated-icon2 {
@@ -131,7 +139,7 @@ footer {
     }
     
     .animated-icon2 span {
-    background: #535353;
+    background: white;
     }
     
     .animated-icon2 span:nth-child(1) {
