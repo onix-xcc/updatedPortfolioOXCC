@@ -59,6 +59,19 @@ a:hover {
     color: #777777;
 }
 
+.fab {
+    font-size: 30px;
+    color: white;
+}
+
+.list-inline {
+    margin-bottom: 0px;
+}
+
+.dev-icons .list-inline-item i:hover {
+   color: #777777;
+}
+
 /* Projects */
 
 .projects {
