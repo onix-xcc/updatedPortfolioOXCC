@@ -64,6 +64,10 @@ a:hover {
     color: white;
 }
 
+.fa-readme {
+    font-size: 20px;
+}
+
 .list-inline {
     margin-bottom: 0px;
 }
